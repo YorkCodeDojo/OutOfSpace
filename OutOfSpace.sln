@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewImageWeb", "ViewImageWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compress_Adam_Nagesh", "compress_Adam_Nagesh\compress_Adam_Nagesh.csproj", "{D2C87162-1F48-4D05-995A-4F3617467848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "david_csharp", "david_csharp\david_csharp.csproj", "{904E5DBA-2E91-4759-81C6-A8233BA9EAF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,5 +34,9 @@ Global
 		{D2C87162-1F48-4D05-995A-4F3617467848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C87162-1F48-4D05-995A-4F3617467848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C87162-1F48-4D05-995A-4F3617467848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904E5DBA-2E91-4759-81C6-A8233BA9EAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904E5DBA-2E91-4759-81C6-A8233BA9EAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904E5DBA-2E91-4759-81C6-A8233BA9EAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904E5DBA-2E91-4759-81C6-A8233BA9EAF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
